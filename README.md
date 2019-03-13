@@ -27,7 +27,9 @@ $ curl https://gist.githubusercontent.com/mitsuaki1229/ad6c0998220ff3dcc7dcd45ea
 
 ### Homebrew
 
+```bash
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 ```bash
 $ brew cask install dropbox
@@ -45,7 +47,7 @@ $ brew cask install docker
 $ brew cask install microsoft-office
 $ brew cask install dash
 $ brew cask install evernote
-$ brew cask bettertouchtool
+$ brew cask install bettertouchtool
 $ brew cask install google-cloud-sdk
 $ brew cask install slack
 $ brew cask install caffeine
